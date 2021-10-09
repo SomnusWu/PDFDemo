@@ -9,10 +9,10 @@
 
 
 ## PDF 模板演示
-![E:\androidDemo01\PDFDemo\pdf\模板1.png](en-resource://database/876:0)
+![https://github.com/SomnusWu/PDFDemo/blob/master/pdf/%E6%A8%A1%E6%9D%BF1.png](en-resource://database/876:0)
 
 ## 生成PDF
-![94dce10b78da3213e78efaa385f7598c.png](en-resource://database/878:0)
+![https://github.com/SomnusWu/PDFDemo/blob/master/pdf/%E7%BB%93%E6%9E%9C.png](en-resource://database/878:0)
 
 
 
