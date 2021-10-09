@@ -9,10 +9,10 @@
 
 
 ## PDF 模板演示
-![https://github.com/SomnusWu/PDFDemo/blob/master/pdf/%E6%A8%A1%E6%9D%BF1.png](en-resource://database/876:0)
+![模板](https://github.com/SomnusWu/PDFDemo/blob/master/pdf/%E6%A8%A1%E6%9D%BF1.png)
 
 ## 生成PDF
-![https://github.com/SomnusWu/PDFDemo/blob/master/pdf/%E7%BB%93%E6%9E%9C.png](en-resource://database/878:0)
+![https://github.com/SomnusWu/PDFDemo/blob/master/pdf/%E7%BB%93%E6%9E%9C.png]
 
 
 
