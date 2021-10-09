@@ -12,7 +12,7 @@
 ![模板](https://github.com/SomnusWu/PDFDemo/blob/master/pdf/%E6%A8%A1%E6%9D%BF1.png)
 
 ## 生成PDF
-!(https://github.com/SomnusWu/PDFDemo/blob/master/pdf/%E7%BB%93%E6%9E%9C.png)
+![pdf](https://github.com/SomnusWu/PDFDemo/blob/master/pdf/%E7%BB%93%E6%9E%9C.png)
 
 
 
